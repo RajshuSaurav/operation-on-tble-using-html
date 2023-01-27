@@ -1,0 +1,28 @@
+body{
+    margin: auto;
+}
+h1{
+    text-align: center;
+    text-shadow: 3px 0 4px black;
+}
+main{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 5%;
+}
+.even{
+    background-color: gray;
+
+}
+.odd{
+    background-color: none;
+}
+.foot{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.btn1{
+    margin :5px;
+}
